@@ -1,42 +1,54 @@
 # Hi, I'm Sesadi 👋
 
-🎓 Computer Engineering Undergraduate  
-🤖 Interested in Machine Learning, Deep Learning & Artificial Intelligence
+🎓 Computer Engineering Undergraduate
+🤖 Aspiring Machine Learning / AI Engineer
+📍 Sri Lanka
 
-## 👩‍💻 About Me
-
-I enjoy building practical machine learning solutions and exploring how AI can be applied to real-world problems.
-
-Currently, I'm focusing on:
-- Machine Learning
-- Deep Learning
-- LLMs & Prompt Engineering
+I enjoy building practical projects and learning how AI and machine learning can be applied to real-world problems.
 
 ## 🛠️ Technical Skills
 
-**Programming**
-- Python
-- C++
-- Java
-- SQL
+### Programming
 
-**Machine Learning & AI**
-- Machine Learning
-- Deep Learning
-- TensorFlow
-- Keras
-- Scikit-learn
-- OpenCV
+* Python
+* C++
+* Java
+* SQL
 
-**Tools**
-- Git
-- GitHub
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
+### Machine Learning & AI
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Computer Vision
+* LLMs
+* Prompt Engineering
+* TensorFlow
+* Keras
+* Scikit-learn
+
+### Data & Tools
+
+* NumPy
+* Pandas
+* Matplotlib
+* OpenCV
+* Jupyter Notebook
+* Git
+* GitHub
+* MySQL
+
+## 🎯 Career Interests
+
+I am currently interested in opportunities related to:
+
+* Machine Learning Engineering
+* AI/ML Engineering
+* Computer Vision
+* Natural Language Processing
+* Artificial Intelligence
 
 ## 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/sesadi-thisakya-4b8071317/)
-- GitHub: [My GitHub](https://github.com/Sesadi13)
+* LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+* GitHub: [My GitHub](YOUR_GITHUB_URL)
